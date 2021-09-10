@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">To Do List</string>
+    <string name="cancelar">Cancelar</string>
+    <string name="criar_tarefa">Criar Tarefa</string>
+    <string name="hora">Hora</string>
+    <string name="data">Data</string>
+    <string name="titulo">Titulo</string>
+    <string name="editar">Editar</string>
+    <string name="deletar">Deletar</string>
+    <string name="ops_voce_nao_tem_nnenhuma_tarefa">Ops! voce nao tem \nnenhuma tarefa</string>
+</resources>
