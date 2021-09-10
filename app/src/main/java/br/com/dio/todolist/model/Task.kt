@@ -3,9 +3,9 @@ package br.com.dio.todolist.model
 data class Task(
     val title: String,
     val hour: String,
-    val date : String,
-    val id : Int = 0
-){
+    val date: String,
+    val id: Int = 0
+) {
     override fun equals(other: Any?): Boolean {
         if (this === other) return true
         if (javaClass != other?.javaClass) return false
